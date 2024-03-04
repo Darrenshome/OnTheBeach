@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTheBeach", "OnTheBeach\OnTheBeach.csproj", "{2D66A1FC-0633-4A2D-9E58-7083B7C20F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTheBeach.Tests", "OnTheBeach.Tests\OnTheBeach.Tests.csproj", "{31FBC7CF-4B99-4FB6-9BE2-B0E5C7E7749A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D66A1FC-0633-4A2D-9E58-7083B7C20F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D66A1FC-0633-4A2D-9E58-7083B7C20F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D66A1FC-0633-4A2D-9E58-7083B7C20F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D66A1FC-0633-4A2D-9E58-7083B7C20F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FBC7CF-4B99-4FB6-9BE2-B0E5C7E7749A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FBC7CF-4B99-4FB6-9BE2-B0E5C7E7749A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FBC7CF-4B99-4FB6-9BE2-B0E5C7E7749A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FBC7CF-4B99-4FB6-9BE2-B0E5C7E7749A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49B1011-01A8-446A-B8AF-B521FDF38240}
+	EndGlobalSection
+EndGlobal
