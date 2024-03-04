@@ -12,7 +12,6 @@ namespace OnTheBeach
     {
         private List<Flight> flights;
         private List<Hotel> hotels;
-        private SearchCriteria criteria;
 
         public HolidaySearch(IDataProvider dataProvider)
         {
